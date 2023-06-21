@@ -31,7 +31,7 @@ song = {
 }
 
 song = {
- name = "Prelude and Fegue in F Minor"
+ name = "Prelude and Fugue in F Minor"
 
  chance = {
   modifier = {
