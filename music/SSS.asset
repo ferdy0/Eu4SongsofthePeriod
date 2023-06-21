@@ -1,0 +1,9 @@
+music = {
+name = "Deo gratias"
+file = "Deo gratias.ogg"
+}
+
+music = {
+name = "Missa Prolationum"
+file = "Missa Prolationum".ogg"
+}
