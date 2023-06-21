@@ -1,5 +1,5 @@
 song = {
- name = "99_Ockeghem - Deo gratis"
+ name = "Deo gratis"
 
  chance = {
   modifier = {
@@ -15,7 +15,7 @@ song = {
 }
 
 song = {
- name = "MissaPr"
+ name = "Missa Prolationum"
 
  chance = {
   modifier = {
