@@ -9,6 +9,11 @@ file = "Missa Prolationum.ogg"
 }
 
 music = {
-name = "Prelude and Fegue in F Minor"
+name = "Prelude and Fugue in F Minor"
 file = "Prelude_and_Fugue_in_F_minor_-_Koopman.ogg"
+}
+
+music = {
+      name = "Christmas Concerto in G minor"
+      file = "Corelli - _Christmas Concerto_ in G Minor - Mov. 1-3 (Part 1)"
 }
