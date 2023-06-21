@@ -45,3 +45,19 @@ song = {
 		}		
 	}
 }
+
+song = {
+ name = "Christmas Concerto in G minor"
+
+ chance = {
+  modifier = {
+   factor = 1
+   is_at_war = no
+  }
+
+  modifier = {
+   factor = 1
+   is_at_war = yes
+		}		
+	}
+}
